@@ -1,0 +1,6 @@
+{
+  "name": "Petualangan Fadhika - Game Edukasi Pecahan 2D",
+  "description": "Game edukasi matematika platformer 2D interaktif materi pecahan bersama Fadhika, petualang cilik ceria.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
